@@ -4,10 +4,10 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=440&lines=Welcome+to+my+GitHub!;Learning+Frontend+Development;Exploring+Open+Source+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&width=440&lines=Welcome+to+my+GitHub!;Learning+Python,+C%2B%2B,+Web+Dev;Exploring+Open+Source+Projects" alt="Typing SVG" />
 </p>
 
-<!-- GIF or Banner -->
+<!-- Coding GIF -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
@@ -15,8 +15,9 @@
 ---
 
 ### 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,github,vscode" />
 </p>
 
 ---
@@ -29,15 +30,17 @@
 
 ---
 
-### ✨ Projects Showcase
-| Project | Description |
-|--------|-------------|
-| 💡 `MyPortfolio` |  |
-| 📘 `LearnHTML` |  |
+### 📁 Projects Showcase
+
+| Project         | Description                                        |
+|----------------|----------------------------------------------------|
+| 💡 `MyPortfolio`| Website portofolio               |
+| 🔢 `Python101`  | Kumpulan latihan Python sederhana untuk latihan  |
+| 🧮 `CPP-Logic`  | Proyek logika dasar & algoritma pakai C++        |
 
 ---
 
-### 🔗 Connect With Me
+### 🌐 Connect With Me
 <p align="center">
   <a href="mailto:azefhana@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
