@@ -32,8 +32,8 @@
 ### ✨ Projects Showcase
 | Project | Description |
 |--------|-------------|
-| 💡 `MyPortfolio` | Website portofolio pribadi untuk menampilkan karya dan kontak |
-| 📘 `LearnHTML` | Kumpulan latihan dasar HTML untuk pemula |
+| 💡 `MyPortfolio` |  |
+| 📘 `LearnHTML` |  |
 
 ---
 
