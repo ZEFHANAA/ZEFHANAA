@@ -34,9 +34,6 @@
 
 | Project         | Description                                        |
 |----------------|----------------------------------------------------|
-| 💡 `MyPortfolio`| Website portofolio               |
-| 🔢 `Python101`  | Kumpulan latihan Python sederhana untuk latihan  |
-| 🧮 `CPP-Logic`  | Proyek logika dasar & algoritma pakai C++        |
 
 ---
 
