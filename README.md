@@ -29,7 +29,7 @@ class Zefhana:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,cpp,git,github,vscode&theme=dark&perline=10" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode&theme=dark&perline=8" />
 </p>
 
 ---
@@ -53,7 +53,7 @@ class Zefhana:
 
 | 📁 Project | 📝 Description | 🛠️ Tech |
 |------------|----------------|---------|
-| [GitHub AI Reviewer](https://github.com/ZEFHANAA/github-ai-reviewer) | AI-assisted GitHub repository health analyzer & audit tool | PHP, Laravel, Tailwind CSS, SQLite |
+| _Coming soon..._ | — | — |
 
 
 ---
