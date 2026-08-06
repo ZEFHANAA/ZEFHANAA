@@ -29,7 +29,7 @@ class Zefhana:
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,git,github,vscode&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,python,cpp,git,github,vscode&theme=dark&perline=10" />
 </p>
 
 ---
@@ -37,9 +37,11 @@ class Zefhana:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ZEFHANAA&theme=github_dark" height="165" alt="stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ZEFHANAA&theme=github_dark" height="165" alt="languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZEFHANAA&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="165" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZEFHANAA&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="165" alt="languages"/>
 </div>
+
+<br>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZEFHANAA&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=ffa657&currStreakLabel=58a6ff" width="500" alt="streak"/>
@@ -51,7 +53,7 @@ class Zefhana:
 
 | 📁 Project | 📝 Description | 🛠️ Tech |
 |------------|----------------|---------|
-| _Coming soon..._ | — | — |
+| [GitHub AI Reviewer](https://github.com/ZEFHANAA/github-ai-reviewer) | AI-assisted GitHub repository health analyzer & audit tool | PHP, Laravel, Tailwind CSS, SQLite |
 
 
 ---
