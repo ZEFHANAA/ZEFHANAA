@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hello, World! 👋
+# Hello World! 👋
 
 ### I'm Zefhana Ananda
 
